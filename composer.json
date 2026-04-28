@@ -7,7 +7,7 @@
         "module-name": "If Decision",
         "module-provider": "FlowArenaModule\\IfDecision\\IfDecisionModule"
     },
-    "version": "0.1.0",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "FlowArenaModule\\IfDecision\\": "src/"
@@ -31,6 +31,6 @@
     "require": {
         "php": "^8.4",
         "symfony/expression-language": "^8.0",
-        "gooody/flow-arena-addon-common": "dev-master"
+        "gooody/flow-arena-addon-common": "^1.0.0"
     }
 }
