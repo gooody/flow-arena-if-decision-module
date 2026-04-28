@@ -7,7 +7,7 @@
         "module-name": "If Decision",
         "module-provider": "FlowArenaModule\\IfDecision\\IfDecisionModule"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
             "FlowArenaModule\\IfDecision\\": "src/"
